@@ -12,9 +12,9 @@ const skillsData = {
     { name: "Redux Toolkit", level: "Experienced" },
   ],
   backend: [
-    { name: "Node JS", level: "Basic" },
-    { name: "Express JS", level: "Basic" },
-    { name: "Mongo DB", level: "Basic" },
+    { name: "Node JS", level: "Experienced" },
+    { name: "Express JS", level: "Experienced" },
+    { name: "Mongo DB", level: "Experienced" },
     { name: "Java", level: "Basic" },
     { name: "My SQL", level: "Basic" },
   ]

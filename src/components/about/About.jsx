@@ -21,7 +21,7 @@ const About = () => {
             <article className='about_card'>
               <FaAward className='about_icon'/>
               <h5>Experience</h5>
-              <small>1+ Year of Experience</small>
+              <small>2+ Year of Experience</small>
             </article>
 
             <article className='about_card'>
@@ -36,7 +36,9 @@ const About = () => {
               <small>20+ Completed</small>
             </article>
           </div>
-          <p>Hi, I'm Akshay, a Front-End Developer with 1 year of experience in creating dynamic, responsive websites using HTML, CSS, JavaScript, React.js, and Redux. I enhance web interactions with GSAP, ScrollTrigger, and Locomotive.js. Passionate about design and user experience, I strive to write clean, efficient code and solve problems creatively. Let's collaborate on something amazing!</p>
+          <p>Hi, I’m Akshay — a MERN Stack Developer
+With 2+ years of experience building end-to-end web applications, I specialize in MongoDB, Express.js, React, and Node.js. I design and implement scalable REST APIs, craft responsive UIs, and integrate features like JWT authentication, Redux Toolkit state management, real-time messaging with Socket.IO, and secure payment gateways. Passionate about clean architecture and cloud deployment on Vercel and AWS, I thrive on delivering production-ready, high-performance solutions.
+          </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
           </div>
